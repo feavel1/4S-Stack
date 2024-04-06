@@ -8,6 +8,6 @@
 	$: ({ session } = data);
 </script>
 
-<h1 class="h1 font-thin">Subscription Page</h1>
+<h1 class="h1 font-thin">FLI Subscription Page</h1>
 
 <Subscription {products} {subscription} {session} />
