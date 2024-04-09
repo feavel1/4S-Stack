@@ -37,6 +37,9 @@ devDependencies:
   '@sveltejs/kit':
     specifier: ^2.5.0
     version: 2.5.5(@sveltejs/vite-plugin-svelte@3.0.2)(svelte@4.2.12)(vite@5.2.8)
+  '@sveltejs/vite-plugin-svelte':
+    specifier: ^3.0.2
+    version: 3.0.2(svelte@4.2.12)(vite@5.2.8)
   '@tailwindcss/forms':
     specifier: ^0.5.6
     version: 0.5.7(tailwindcss@3.4.3)
